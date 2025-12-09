@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CombineBFSAndBeamSearch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ccbaf32d4fdef7877094c8b17f922c16556bb6c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eac3280a0893288aadec4d1f49942bbfb8a4ecb3")]
 [assembly: System.Reflection.AssemblyProductAttribute("CombineBFSAndBeamSearch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CombineBFSAndBeamSearch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
