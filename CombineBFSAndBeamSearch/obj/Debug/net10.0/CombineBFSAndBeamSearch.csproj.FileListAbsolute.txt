@@ -1,0 +1,123 @@
+D:\project c#\CombineBFSAndBeamSearch\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.exe
+D:\project c#\CombineBFSAndBeamSearch\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.deps.json
+D:\project c#\CombineBFSAndBeamSearch\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.runtimeconfig.json
+D:\project c#\CombineBFSAndBeamSearch\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.dll
+D:\project c#\CombineBFSAndBeamSearch\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.pdb
+D:\project c#\CombineBFSAndBeamSearch\CombineBFSAndBeamSearch\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\project c#\CombineBFSAndBeamSearch\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.csproj.AssemblyReference.cache
+D:\project c#\CombineBFSAndBeamSearch\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\project c#\CombineBFSAndBeamSearch\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.AssemblyInfoInputs.cache
+D:\project c#\CombineBFSAndBeamSearch\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.AssemblyInfo.cs
+D:\project c#\CombineBFSAndBeamSearch\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.csproj.CoreCompileInputs.cache
+D:\project c#\CombineBFSAndBeamSearch\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineB.B71FBFE3.Up2Date
+D:\project c#\CombineBFSAndBeamSearch\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.dll
+D:\project c#\CombineBFSAndBeamSearch\CombineBFSAndBeamSearch\obj\Debug\net10.0\refint\CombineBFSAndBeamSearch.dll
+D:\project c#\CombineBFSAndBeamSearch\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.pdb
+D:\project c#\CombineBFSAndBeamSearch\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.genruntimeconfig.cache
+D:\project c#\CombineBFSAndBeamSearch\CombineBFSAndBeamSearch\obj\Debug\net10.0\ref\CombineBFSAndBeamSearch.dll
+D:\project c#\CombineBFSAndBeamSearch - Copy (2)\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.exe
+D:\project c#\CombineBFSAndBeamSearch - Copy (2)\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.deps.json
+D:\project c#\CombineBFSAndBeamSearch - Copy (2)\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.runtimeconfig.json
+D:\project c#\CombineBFSAndBeamSearch - Copy (2)\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.dll
+D:\project c#\CombineBFSAndBeamSearch - Copy (2)\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.pdb
+D:\project c#\CombineBFSAndBeamSearch - Copy (2)\CombineBFSAndBeamSearch\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\project c#\CombineBFSAndBeamSearch - Copy (2)\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.csproj.AssemblyReference.cache
+D:\project c#\CombineBFSAndBeamSearch - Copy (2)\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\project c#\CombineBFSAndBeamSearch - Copy (2)\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.AssemblyInfoInputs.cache
+D:\project c#\CombineBFSAndBeamSearch - Copy (2)\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.AssemblyInfo.cs
+D:\project c#\CombineBFSAndBeamSearch - Copy (2)\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.csproj.CoreCompileInputs.cache
+D:\project c#\CombineBFSAndBeamSearch - Copy (2)\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineB.B71FBFE3.Up2Date
+D:\project c#\CombineBFSAndBeamSearch - Copy (2)\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.dll
+D:\project c#\CombineBFSAndBeamSearch - Copy (2)\CombineBFSAndBeamSearch\obj\Debug\net10.0\refint\CombineBFSAndBeamSearch.dll
+D:\project c#\CombineBFSAndBeamSearch - Copy (2)\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.pdb
+D:\project c#\CombineBFSAndBeamSearch - Copy (2)\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.genruntimeconfig.cache
+D:\project c#\CombineBFSAndBeamSearch - Copy (2)\CombineBFSAndBeamSearch\obj\Debug\net10.0\ref\CombineBFSAndBeamSearch.dll
+D:\project c#\90%\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.exe
+D:\project c#\90%\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.deps.json
+D:\project c#\90%\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.runtimeconfig.json
+D:\project c#\90%\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.dll
+D:\project c#\90%\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.pdb
+D:\project c#\90%\CombineBFSAndBeamSearch\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\project c#\90%\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.csproj.AssemblyReference.cache
+D:\project c#\90%\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\project c#\90%\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.AssemblyInfoInputs.cache
+D:\project c#\90%\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.AssemblyInfo.cs
+D:\project c#\90%\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.csproj.CoreCompileInputs.cache
+D:\project c#\90%\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineB.B71FBFE3.Up2Date
+D:\project c#\90%\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.dll
+D:\project c#\90%\CombineBFSAndBeamSearch\obj\Debug\net10.0\refint\CombineBFSAndBeamSearch.dll
+D:\project c#\90%\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.pdb
+D:\project c#\90%\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.genruntimeconfig.cache
+D:\project c#\90%\CombineBFSAndBeamSearch\obj\Debug\net10.0\ref\CombineBFSAndBeamSearch.dll
+D:\project c#\90% - Copy\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.exe
+D:\project c#\90% - Copy\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.deps.json
+D:\project c#\90% - Copy\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.runtimeconfig.json
+D:\project c#\90% - Copy\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.dll
+D:\project c#\90% - Copy\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.pdb
+D:\project c#\90% - Copy\CombineBFSAndBeamSearch\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\project c#\90% - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.csproj.AssemblyReference.cache
+D:\project c#\90% - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\project c#\90% - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.AssemblyInfoInputs.cache
+D:\project c#\90% - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.AssemblyInfo.cs
+D:\project c#\90% - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.csproj.CoreCompileInputs.cache
+D:\project c#\90% - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.sourcelink.json
+D:\project c#\90% - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineB.B71FBFE3.Up2Date
+D:\project c#\90% - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.dll
+D:\project c#\90% - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\refint\CombineBFSAndBeamSearch.dll
+D:\project c#\90% - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.pdb
+D:\project c#\90% - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.genruntimeconfig.cache
+D:\project c#\90% - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\ref\CombineBFSAndBeamSearch.dll
+D:\project c#\90% - Copy - Copy\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.exe
+D:\project c#\90% - Copy - Copy\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.deps.json
+D:\project c#\90% - Copy - Copy\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.runtimeconfig.json
+D:\project c#\90% - Copy - Copy\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.dll
+D:\project c#\90% - Copy - Copy\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.pdb
+D:\project c#\90% - Copy - Copy\CombineBFSAndBeamSearch\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\project c#\90% - Copy - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.csproj.AssemblyReference.cache
+D:\project c#\90% - Copy - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\project c#\90% - Copy - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.AssemblyInfoInputs.cache
+D:\project c#\90% - Copy - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.AssemblyInfo.cs
+D:\project c#\90% - Copy - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.csproj.CoreCompileInputs.cache
+D:\project c#\90% - Copy - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.sourcelink.json
+D:\project c#\90% - Copy - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineB.B71FBFE3.Up2Date
+D:\project c#\90% - Copy - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.dll
+D:\project c#\90% - Copy - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\refint\CombineBFSAndBeamSearch.dll
+D:\project c#\90% - Copy - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.pdb
+D:\project c#\90% - Copy - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.genruntimeconfig.cache
+D:\project c#\90% - Copy - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\ref\CombineBFSAndBeamSearch.dll
+D:\project c#\90% - Copy - Copy - Copy\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.exe
+D:\project c#\90% - Copy - Copy - Copy\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.deps.json
+D:\project c#\90% - Copy - Copy - Copy\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.runtimeconfig.json
+D:\project c#\90% - Copy - Copy - Copy\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.dll
+D:\project c#\90% - Copy - Copy - Copy\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.pdb
+D:\project c#\90% - Copy - Copy - Copy\CombineBFSAndBeamSearch\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\project c#\90% - Copy - Copy - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.csproj.AssemblyReference.cache
+D:\project c#\90% - Copy - Copy - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\project c#\90% - Copy - Copy - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.AssemblyInfoInputs.cache
+D:\project c#\90% - Copy - Copy - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.AssemblyInfo.cs
+D:\project c#\90% - Copy - Copy - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.csproj.CoreCompileInputs.cache
+D:\project c#\90% - Copy - Copy - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.sourcelink.json
+D:\project c#\90% - Copy - Copy - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineB.B71FBFE3.Up2Date
+D:\project c#\90% - Copy - Copy - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.dll
+D:\project c#\90% - Copy - Copy - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\refint\CombineBFSAndBeamSearch.dll
+D:\project c#\90% - Copy - Copy - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.pdb
+D:\project c#\90% - Copy - Copy - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.genruntimeconfig.cache
+D:\project c#\90% - Copy - Copy - Copy\CombineBFSAndBeamSearch\obj\Debug\net10.0\ref\CombineBFSAndBeamSearch.dll
+D:\project c#\9x 2 đc\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.exe
+D:\project c#\9x 2 đc\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.deps.json
+D:\project c#\9x 2 đc\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.runtimeconfig.json
+D:\project c#\9x 2 đc\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.dll
+D:\project c#\9x 2 đc\CombineBFSAndBeamSearch\bin\Debug\net10.0\CombineBFSAndBeamSearch.pdb
+D:\project c#\9x 2 đc\CombineBFSAndBeamSearch\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\project c#\9x 2 đc\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.csproj.AssemblyReference.cache
+D:\project c#\9x 2 đc\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\project c#\9x 2 đc\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.AssemblyInfoInputs.cache
+D:\project c#\9x 2 đc\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.AssemblyInfo.cs
+D:\project c#\9x 2 đc\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.csproj.CoreCompileInputs.cache
+D:\project c#\9x 2 đc\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.sourcelink.json
+D:\project c#\9x 2 đc\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineB.B71FBFE3.Up2Date
+D:\project c#\9x 2 đc\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.dll
+D:\project c#\9x 2 đc\CombineBFSAndBeamSearch\obj\Debug\net10.0\refint\CombineBFSAndBeamSearch.dll
+D:\project c#\9x 2 đc\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.pdb
+D:\project c#\9x 2 đc\CombineBFSAndBeamSearch\obj\Debug\net10.0\CombineBFSAndBeamSearch.genruntimeconfig.cache
+D:\project c#\9x 2 đc\CombineBFSAndBeamSearch\obj\Debug\net10.0\ref\CombineBFSAndBeamSearch.dll

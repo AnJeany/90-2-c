@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project c#\\9x 2 \u0111c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEB099D-6112-4C2D-A347-15720D4C76F8}|CombineBFSAndBeamSearch\\CombineBFSAndBeamSearch.csproj|d:\\project c#\\9x 2 \u0111c\\combinebfsandbeamsearch\\hybridultimatesolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EEB099D-6112-4C2D-A347-15720D4C76F8}|CombineBFSAndBeamSearch\\CombineBFSAndBeamSearch.csproj|solutionrelative:combinebfsandbeamsearch\\hybridultimatesolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEB099D-6112-4C2D-A347-15720D4C76F8}|CombineBFSAndBeamSearch\\CombineBFSAndBeamSearch.csproj|d:\\project c#\\9x 2 \u0111c\\combinebfsandbeamsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EEB099D-6112-4C2D-A347-15720D4C76F8}|CombineBFSAndBeamSearch\\CombineBFSAndBeamSearch.csproj|solutionrelative:combinebfsandbeamsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEB099D-6112-4C2D-A347-15720D4C76F8}|CombineBFSAndBeamSearch\\CombineBFSAndBeamSearch.csproj|d:\\project c#\\9x 2 \u0111c\\combinebfsandbeamsearch\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EEB099D-6112-4C2D-A347-15720D4C76F8}|CombineBFSAndBeamSearch\\CombineBFSAndBeamSearch.csproj|solutionrelative:combinebfsandbeamsearch\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEB099D-6112-4C2D-A347-15720D4C76F8}|CombineBFSAndBeamSearch\\CombineBFSAndBeamSearch.csproj|d:\\project c#\\9x 2 \u0111c\\combinebfsandbeamsearch\\improvedbeamsearch_parallel_optimized.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EEB099D-6112-4C2D-A347-15720D4C76F8}|CombineBFSAndBeamSearch\\CombineBFSAndBeamSearch.csproj|solutionrelative:combinebfsandbeamsearch\\improvedbeamsearch_parallel_optimized.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEB099D-6112-4C2D-A347-15720D4C76F8}|CombineBFSAndBeamSearch\\CombineBFSAndBeamSearch.csproj|d:\\project c#\\9x 2 \u0111c\\combinebfsandbeamsearch\\basesolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EEB099D-6112-4C2D-A347-15720D4C76F8}|CombineBFSAndBeamSearch\\CombineBFSAndBeamSearch.csproj|solutionrelative:combinebfsandbeamsearch\\basesolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEB099D-6112-4C2D-A347-15720D4C76F8}|CombineBFSAndBeamSearch\\CombineBFSAndBeamSearch.csproj|d:\\project c#\\9x 2 \u0111c\\combinebfsandbeamsearch\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EEB099D-6112-4C2D-A347-15720D4C76F8}|CombineBFSAndBeamSearch\\CombineBFSAndBeamSearch.csproj|solutionrelative:combinebfsandbeamsearch\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEB099D-6112-4C2D-A347-15720D4C76F8}|CombineBFSAndBeamSearch\\CombineBFSAndBeamSearch.csproj|d:\\project c#\\9x 2 \u0111c\\combinebfsandbeamsearch\\rulebasebfssolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EEB099D-6112-4C2D-A347-15720D4C76F8}|CombineBFSAndBeamSearch\\CombineBFSAndBeamSearch.csproj|solutionrelative:combinebfsandbeamsearch\\rulebasebfssolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEB099D-6112-4C2D-A347-15720D4C76F8}|CombineBFSAndBeamSearch\\CombineBFSAndBeamSearch.csproj|d:\\project c#\\9x 2 \u0111c\\combinebfsandbeamsearch\\combinebfsandbeamsearch.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1EEB099D-6112-4C2D-A347-15720D4C76F8}|CombineBFSAndBeamSearch\\CombineBFSAndBeamSearch.csproj|solutionrelative:combinebfsandbeamsearch\\combinebfsandbeamsearch.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HybridUltimateSolver.cs",
+              "DocumentMoniker": "D:\\project c#\\9x 2 \u0111c\\CombineBFSAndBeamSearch\\HybridUltimateSolver.cs",
+              "RelativeDocumentMoniker": "CombineBFSAndBeamSearch\\HybridUltimateSolver.cs",
+              "ToolTip": "D:\\project c#\\9x 2 \u0111c\\CombineBFSAndBeamSearch\\HybridUltimateSolver.cs",
+              "RelativeToolTip": "CombineBFSAndBeamSearch\\HybridUltimateSolver.cs",
+              "ViewState": "AgIAAIEBAAAAAAAAAAAgwJUBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T04:21:45.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImprovedBeamSearch_Parallel_Optimized.cs",
+              "DocumentMoniker": "D:\\project c#\\9x 2 \u0111c\\CombineBFSAndBeamSearch\\ImprovedBeamSearch_Parallel_Optimized.cs",
+              "RelativeDocumentMoniker": "CombineBFSAndBeamSearch\\ImprovedBeamSearch_Parallel_Optimized.cs",
+              "ToolTip": "D:\\project c#\\9x 2 \u0111c\\CombineBFSAndBeamSearch\\ImprovedBeamSearch_Parallel_Optimized.cs",
+              "RelativeToolTip": "CombineBFSAndBeamSearch\\ImprovedBeamSearch_Parallel_Optimized.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T03:50:16.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseSolver.cs",
+              "DocumentMoniker": "D:\\project c#\\9x 2 \u0111c\\CombineBFSAndBeamSearch\\BaseSolver.cs",
+              "RelativeDocumentMoniker": "CombineBFSAndBeamSearch\\BaseSolver.cs",
+              "ToolTip": "D:\\project c#\\9x 2 \u0111c\\CombineBFSAndBeamSearch\\BaseSolver.cs",
+              "RelativeToolTip": "CombineBFSAndBeamSearch\\BaseSolver.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwD4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T03:46:59.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "models.cs",
+              "DocumentMoniker": "D:\\project c#\\9x 2 \u0111c\\CombineBFSAndBeamSearch\\models.cs",
+              "RelativeDocumentMoniker": "CombineBFSAndBeamSearch\\models.cs",
+              "ToolTip": "D:\\project c#\\9x 2 \u0111c\\CombineBFSAndBeamSearch\\models.cs",
+              "RelativeToolTip": "CombineBFSAndBeamSearch\\models.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAA8wGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T03:46:09.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\project c#\\9x 2 \u0111c\\CombineBFSAndBeamSearch\\Program.cs",
+              "RelativeDocumentMoniker": "CombineBFSAndBeamSearch\\Program.cs",
+              "ToolTip": "D:\\project c#\\9x 2 \u0111c\\CombineBFSAndBeamSearch\\Program.cs",
+              "RelativeToolTip": "CombineBFSAndBeamSearch\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAArwCkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T03:42:15.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RuleBaseBFSSolver.cs",
+              "DocumentMoniker": "D:\\project c#\\9x 2 \u0111c\\CombineBFSAndBeamSearch\\RuleBaseBFSSolver.cs",
+              "RelativeDocumentMoniker": "CombineBFSAndBeamSearch\\RuleBaseBFSSolver.cs",
+              "ToolTip": "D:\\project c#\\9x 2 \u0111c\\CombineBFSAndBeamSearch\\RuleBaseBFSSolver.cs",
+              "RelativeToolTip": "CombineBFSAndBeamSearch\\RuleBaseBFSSolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T03:57:17.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CombineBFSAndBeamSearch",
+              "DocumentMoniker": "D:\\project c#\\9x 2 \u0111c\\CombineBFSAndBeamSearch\\CombineBFSAndBeamSearch.csproj",
+              "RelativeDocumentMoniker": "CombineBFSAndBeamSearch\\CombineBFSAndBeamSearch.csproj",
+              "ToolTip": "D:\\project c#\\9x 2 \u0111c\\CombineBFSAndBeamSearch\\CombineBFSAndBeamSearch.csproj",
+              "RelativeToolTip": "CombineBFSAndBeamSearch\\CombineBFSAndBeamSearch.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-05T07:42:59.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Field.cs",
+              "DocumentMoniker": "D:\\project c#\\9x 2 \u0111c\\CombineBFSAndBeamSearch\\Field.cs",
+              "RelativeDocumentMoniker": "CombineBFSAndBeamSearch\\Field.cs",
+              "ToolTip": "D:\\project c#\\9x 2 \u0111c\\CombineBFSAndBeamSearch\\Field.cs",
+              "RelativeToolTip": "CombineBFSAndBeamSearch\\Field.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA3wDIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T03:45:36.29Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
